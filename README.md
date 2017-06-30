@@ -7,7 +7,7 @@ Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should 
 
 Pull requests welcome
 
-German version below
+[German version below][3]
 
 ---
 
@@ -206,3 +206,4 @@ German version below
 ## Links
 [1]: https://github.com/MacLemon/CongressChecklist
 [2]: https://github.com/MacLemon
+[3]: https://github.com/Columbia19/Camping-Checklist#german
