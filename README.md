@@ -7,6 +7,8 @@ Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should 
 
 Pull requests welcome
 
+German version below
+
 ---
 
 ## ENGLISH
