@@ -5,6 +5,8 @@ Just some basic tips and guidelines
 
 Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should consider for all tech-related stuff
 
+Pull requests welcome
+
 ---
 
 ## ENGLISH
