@@ -60,7 +60,7 @@ German version below
 
 ### Tools
 
-* hammer (for tent pegs)
+* rubber hammer (for tent pegs)
 * torch / flashlight / headlamp
 * batteries
 * pocket knife / leatherman
