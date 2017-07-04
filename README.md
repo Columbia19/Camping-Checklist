@@ -84,7 +84,7 @@ German version below
 ### Food/Drink
 
 * camping plates, cups, cutlery
-* water can (5L)
+* water canister (5L), foldable 
 * refrigerator box
 * camping stove
 * chewing gum
@@ -184,7 +184,7 @@ German version below
 
 ### Essen/Trinken
 * Kühlbox
-* Wasserkanister (5L)
+* Wasserkanister (5L), evt. faltbar
 * Plastikteller, Becher, Besteck
 * Gaskocher
 * Kaugummi
