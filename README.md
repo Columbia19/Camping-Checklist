@@ -16,6 +16,9 @@ German version below
 ### Sleeping
 
 * tent
+	* pegs
+	* rope
+	* check eyelets
 * camping mat / sleeping pad
 * sleeping bag
 * pillow
@@ -114,6 +117,9 @@ German version below
 ### Schlafen
 
 * Zelt
+	* Heringe
+	* Abspannseile
+	* Ösen überprüfen
 * Isomatte
 * Schlafsack
 * Polster
