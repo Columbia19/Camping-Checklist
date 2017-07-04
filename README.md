@@ -105,6 +105,8 @@ German version below
 * antiseptic (Octenisept)
 * personal medication
 
+
+
 ---
 
 ## German
@@ -157,7 +159,7 @@ German version below
 
 ### Diverses
 
-* Hammer (zum Einschlagen von Zeltheringen)
+* Gummihammer (zum Einschlagen von Zeltheringen)
 * Taschenlampe / Stirnlampe
 * Batterien
 * Taschenmesser / Leatherman
