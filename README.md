@@ -102,6 +102,7 @@ Deutschsprachige Fassung weiter unten.
 * Cookies, cereal bars, crackers
 * vegetable peeler
 * dish detergent, sponge
+* Metal mug (e.g. from Easterhegg)
 
 
 ### Medication
@@ -235,6 +236,7 @@ English version above.
 * Kekse, Müsliriegel, Cracker
 * Gemüseschäler
 * Geschirrspülmittel, Geschirrspülschwamm
+* Metallbecher/Metallhäferl (zB vom Easterhegg)
 
 
 ### Medikamente
