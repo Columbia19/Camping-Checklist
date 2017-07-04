@@ -179,7 +179,7 @@ German version below
 * Verteiler
 * Licht oder Fahne für das Zelt zwecks Orientierung
 * Kartenspiel
-* Fächer
+* Fächer / Ventilator
 
 
 ### Essen/Trinken
