@@ -17,9 +17,9 @@ Deutschsprachige Fassung weiter unten.
 ### Sleeping
 
 * tent
-	* pegs
-	* rope
-	* check eyelets
+	- pegs
+	- rope
+	- check eyelets
 * camping mat / sleeping pad
 * sleeping bag
 * pillow
@@ -150,9 +150,9 @@ English version above.
 ### Schlafen
 
 * Zelt
-	* Heringe
-	* Abspannseile
-	* Ösen überprüfen
+	- Heringe
+	- Abspannseile
+	- Ösen überprüfen
 * Isomatte
 * Schlafsack
 * Polster
