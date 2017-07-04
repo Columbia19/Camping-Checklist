@@ -174,7 +174,7 @@ German version below
 * Taschentücher
 * Reinigungstücher
 * Müllsäcke
-* Kabeltrommel
+* Kabeltrommel (Wechselstrom, Ethernet, Glasfaser)
 * Verteiler
 * Licht oder Fahne für das Zelt zwecks Orientierung
 * Kartenspiel
