@@ -74,6 +74,7 @@ German version below
 * tissues
 * cleaning tissues
 * rubbish bag
+* lasers
 * cable drum (power, ethernet, fiber)
 * power distributor
 * lights or flags to identify your tent
