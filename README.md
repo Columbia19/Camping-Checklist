@@ -110,6 +110,9 @@ German version below
 * personal medication
 
 
+### Power Supply
+
+* 3-phase 400V adapter to 230V single phase (ruggedized outdoor kind)
 
 ---
 
@@ -213,6 +216,10 @@ German version below
 * Bepanthen
 * Antiseptikum (Octenisept)
 * persönliche Medikamente
+
+### Stromversorgung
+
+* 400V, Drehstrom Adapter auf 1 Phase 230V (allwettertauglich)
 
 
 ## Links
