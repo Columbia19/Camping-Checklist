@@ -23,6 +23,7 @@ German version below
 * sleeping bag
 * pillow
 
+
 ### Furniture
 
 * blanket or carpet to put in the anteroom of your tent
@@ -30,6 +31,7 @@ German version below
 * table
 * hand truck
 * pavillon or tarp (sun protection)
+
 
 ### Clothing
 
@@ -43,6 +45,7 @@ German version below
 * rain shield
 * Swim suit, bikini, trunks
 * pajamas
+
 
 ### Personal hygiene
 * Tooth brush, Toothpaste
@@ -61,6 +64,7 @@ German version below
 * Glasses
 	- spectacle case
 * Oropax
+
 
 ### Tools
 
@@ -85,6 +89,7 @@ German version below
 * card games
 * fan (not the cheering crowd type)
 
+
 ### Food/Drink
 
 * camping plates, cups, cutlery
@@ -96,6 +101,7 @@ German version below
 * Cookies, cereal bars, crackers
 * vegetable peeler
 * dish detergent, sponge
+
 
 ### Medication
 
@@ -137,6 +143,7 @@ German version below
 * Schlafsack
 * Polster
 
+
 ### Möbel
 
 * Picknickdecke oder Teppich für den Zeltvorraum
@@ -159,6 +166,7 @@ German version below
 * Badeanzug, Bikini, Badehosen
 * Pyjama
 
+
 ### Personal hygiene
 * Zahnbürste, Zahnpasta
 * Duschgel, Shampoo, Conditioner
@@ -176,6 +184,7 @@ German version below
 * Brille
 	- Brillenetui 
 * Oropax
+
 
 ### Diverses
 
@@ -225,6 +234,7 @@ German version below
 * Bepanthen
 * Antiseptikum (Octenisept)
 * persönliche Medikamente
+
 
 ### Stromversorgung
 
