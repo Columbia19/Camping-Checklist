@@ -130,6 +130,12 @@ Deutschsprachige Fassung weiter unten.
 * Uninterruptable power supply (UPS)
 
 
+### Decoration and Signage
+Ideally all decorative lighting is independently solar powered.
+
+* LED strips to brighten up your tent or pavillon
+* LED torches to illuminate rope and pegs to prevent people from tripping over them during the night
+
 
 ---
 # Camping-Checkliste
@@ -264,6 +270,13 @@ English version above.
 * Wind Generator
 * Hydroelektrisches Kraftwerk
 * USV (Unterbrechungsfreie Stromversorgung)
+
+
+### Dekoration und Beschilderung
+Idealerweise sind alle Dekobeleuchtungen unabhängig vom Stromnetz und solarbetrieben.
+
+* LED Streifen um Zelt oder Pavillon zu erleuchten
+* LED Fackeln/Spieße um die Heringe und Abspannseile zu beleuchten, damit niemand in der Nacht drüber stolpert.
 
 
 ## Links
