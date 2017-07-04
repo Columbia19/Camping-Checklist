@@ -59,6 +59,7 @@ German version below
 	- replacement contact lenses
 	- replacement glasses
 * Glasses
+	- spectacle case
 * Oropax
 
 ### Tools
@@ -161,6 +162,7 @@ German version below
 	- Ersatzlinsen
 	- Ersatzbrille
 * Brille
+	- Brillenetui 
 * Oropax
 
 ### Diverses
