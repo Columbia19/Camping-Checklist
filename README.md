@@ -36,7 +36,7 @@ German version below
 * shirts
 * underwear
 * socks/stockings/tights/overknees
-* pants/skirts/trousers/dresses
+* pants/skirts/trousers/dresses/kilts
 * Hoodies, pullovers, zippers, vests
 * Jacket
 * shoes (sneekers, rubber boots, plastic shoes or flipflops for showering)
@@ -138,7 +138,7 @@ German version below
 * T-Shirts
 * Unterwäsche
 * Socken/Strumpfhosen
-* Hosen/Röcke/Kleider
+* Hosen/Röcke/Kleider/Kilts
 * Hoodies, Pullover, Westen
 * Jacke
 * Schuhe (Sneekers, Gummistiefel, Plastikschuhe oder Flipflops zum Duschen)
