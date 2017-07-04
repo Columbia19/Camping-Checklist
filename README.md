@@ -7,7 +7,8 @@ Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should 
 
 Pull requests welcome
 
-German version below
+German version below.
+Deutschsprachige Fassung weiter unten.
 
 ---
 
@@ -130,6 +131,19 @@ German version below
 
 
 ---
+# Camping-Checkliste
+
+Vorbereitungen und Packliste fürs Camping.
+
+Einfache Tips und Empfehlungen.
+
+Teilweise basierend auf der [Congress Checklist][1] von [@MacLemon][2], welche Du für nerdiges Zeug ansehen solltest.
+
+Pull requests sind willkommen.
+
+Englischsprachige Fassung oben.
+English version above.
+
 
 ## German
 
