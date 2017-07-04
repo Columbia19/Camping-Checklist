@@ -79,7 +79,7 @@ German version below
 * power distributor
 * lights or flags to identify your tent
 * card games
-* fan
+* fan (not the cheering crowd type)
 
 ### Food/Drink
 
