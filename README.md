@@ -65,7 +65,7 @@ German version below
 ### Tools
 
 * rubber hammer (for tent pegs)
-* torch / flashlight / headlamp
+* torch / flashlight / headlamp (including batteries and matching charger)
 * batteries
 * pocket knife / leatherman
 * sunscreen
@@ -113,6 +113,15 @@ German version below
 ### Power Supply
 
 * 3-phase 400V adapter to 230V single phase (ruggedized outdoor kind)
+* Solarpanele
+* Akkus, PowerBanks
+* AA, AAA batteries
+* hand crank generator
+* Wind generator
+* hydro electric power plant
+* Uninterruptable power supply (UPS)
+
+
 
 ---
 
@@ -171,7 +180,7 @@ German version below
 ### Diverses
 
 * Gummihammer (zum Einschlagen von Zeltheringen)
-* Taschenlampe / Stirnlampe
+* Taschenlampe / Stirnlampe (inkl. Akkus und passendem Ladegerät)
 * Batterien
 * Taschenmesser / Leatherman
 * Gummistiefel
@@ -220,6 +229,15 @@ German version below
 ### Stromversorgung
 
 * 400V, Drehstrom Adapter auf 1 Phase 230V (allwettertauglich)
+* Solar panels
+* Rechargables, power banks
+* AA (Mignon), AAA Batterien
+* Dynamo, Handgenerator
+* AA, AAA batteries
+* Handgenerator, Dynamo
+* Wind Generator
+* Hydroelektrisches Kraftwerk
+* USV (Unterbrechungsfreie Stromversorgung)
 
 
 ## Links
