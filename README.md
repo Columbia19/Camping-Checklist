@@ -7,7 +7,8 @@ Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should 
 
 Pull requests welcome
 
-German version below
+German version below.
+Deutschsprachige Fassung weiter unten.
 
 ---
 
@@ -16,9 +17,13 @@ German version below
 ### Sleeping
 
 * tent
+	- pegs
+	- rope
+	- check eyelets
 * camping mat / sleeping pad
 * sleeping bag
 * pillow
+
 
 ### Furniture
 
@@ -28,18 +33,20 @@ German version below
 * hand truck
 * pavillon or tarp (sun protection)
 
+
 ### Clothing
 
 * shirts
 * underwear
 * socks/stockings/tights/overknees
-* pants/skirts/trousers/dresses
+* pants/skirts/trousers/dresses/kilts
 * Hoodies, pullovers, zippers, vests
 * Jacket
 * shoes (sneekers, rubber boots, plastic shoes or flipflops for showering)
 * rain shield
 * Swim suit, bikini, trunks
 * pajamas
+
 
 ### Personal hygiene
 * Tooth brush, Toothpaste
@@ -56,12 +63,14 @@ German version below
 	- replacement contact lenses
 	- replacement glasses
 * Glasses
+	- spectacle case
 * Oropax
+
 
 ### Tools
 
-* hammer (for tent pegs)
-* torch / flashlight / headlamp
+* rubber hammer (for tent pegs)
+* torch / flashlight / headlamp (including batteries and matching charger)
 * batteries
 * pocket knife / leatherman
 * sunscreen
@@ -74,16 +83,18 @@ German version below
 * tissues
 * cleaning tissues
 * rubbish bag
-* cable drum
+* lasers
+* cable drum (power, ethernet, fiber)
 * power distributor
 * lights or flags to identify your tent
 * card games
-* fan
+* fan (not the cheering crowd type)
+
 
 ### Food/Drink
 
 * camping plates, cups, cutlery
-* water can (5L)
+* water canister (5L), foldable 
 * refrigerator box
 * camping stove
 * chewing gum
@@ -91,6 +102,8 @@ German version below
 * Cookies, cereal bars, crackers
 * vegetable peeler
 * dish detergent, sponge
+* Metal mug (e.g. from Easterhegg)
+
 
 ### Medication
 
@@ -104,16 +117,53 @@ German version below
 * antiseptic (Octenisept)
 * personal medication
 
+
+### Power Supply
+
+* 3-phase 400V adapter to 230V single phase (ruggedized outdoor kind)
+* Solarpanele
+* Akkus, PowerBanks
+* AA, AAA batteries
+* hand crank generator
+* Wind generator
+* hydro electric power plant
+* Uninterruptable power supply (UPS)
+
+
+### Decoration and Signage
+Ideally all decorative lighting is independently solar powered.
+
+* LED strips to brighten up your tent or pavillon
+* LED torches to illuminate rope and pegs to prevent people from tripping over them during the night
+
+
 ---
+# Camping-Checkliste
+
+Vorbereitungen und Packliste fürs Camping.
+
+Einfache Tips und Empfehlungen.
+
+Teilweise basierend auf der [Congress Checklist][1] von [@MacLemon][2], welche Du für nerdiges Zeug ansehen solltest.
+
+Pull requests sind willkommen.
+
+Englischsprachige Fassung oben.
+English version above.
+
 
 ## German
 
 ### Schlafen
 
 * Zelt
+	- Heringe
+	- Abspannseile
+	- Ösen überprüfen
 * Isomatte
 * Schlafsack
 * Polster
+
 
 ### Möbel
 
@@ -129,13 +179,14 @@ German version below
 * T-Shirts
 * Unterwäsche
 * Socken/Strumpfhosen
-* Hosen/Röcke/Kleider
+* Hosen/Röcke/Kleider/Kilts
 * Hoodies, Pullover, Westen
 * Jacke
 * Schuhe (Sneekers, Gummistiefel, Plastikschuhe oder Flipflops zum Duschen)
 * Regenschutz
 * Badeanzug, Bikini, Badehosen
 * Pyjama
+
 
 ### Personal hygiene
 * Zahnbürste, Zahnpasta
@@ -152,12 +203,14 @@ German version below
 	- Ersatzlinsen
 	- Ersatzbrille
 * Brille
+	- Brillenetui 
 * Oropax
+
 
 ### Diverses
 
-* Hammer (zum Einschlagen von Zeltheringen)
-* Taschenlampe / Stirnlampe
+* Gummihammer (zum Einschlagen von Zeltheringen)
+* Taschenlampe / Stirnlampe (inkl. Akkus und passendem Ladegerät)
 * Batterien
 * Taschenmesser / Leatherman
 * Gummistiefel
@@ -171,16 +224,17 @@ German version below
 * Taschentücher
 * Reinigungstücher
 * Müllsäcke
-* Kabeltrommel
+* Laser
+* Kabeltrommel (Wechselstrom, Ethernet, Glasfaser)
 * Verteiler
 * Licht oder Fahne für das Zelt zwecks Orientierung
 * Kartenspiel
-* Fächer
+* Fächer / Ventilator
 
 
 ### Essen/Trinken
 * Kühlbox
-* Wasserkanister (5L)
+* Wasserkanister (5L), evt. faltbar
 * Plastikteller, Becher, Besteck
 * Gaskocher
 * Kaugummi
@@ -188,6 +242,7 @@ German version below
 * Kekse, Müsliriegel, Cracker
 * Gemüseschäler
 * Geschirrspülmittel, Geschirrspülschwamm
+* Metallbecher/Metallhäferl (zB vom Easterhegg)
 
 
 ### Medikamente
@@ -201,6 +256,27 @@ German version below
 * Bepanthen
 * Antiseptikum (Octenisept)
 * persönliche Medikamente
+
+
+### Stromversorgung
+
+* 400V, Drehstrom Adapter auf 1 Phase 230V (allwettertauglich)
+* Solar panels
+* Rechargables, power banks
+* AA (Mignon), AAA Batterien
+* Dynamo, Handgenerator
+* AA, AAA batteries
+* Handgenerator, Dynamo
+* Wind Generator
+* Hydroelektrisches Kraftwerk
+* USV (Unterbrechungsfreie Stromversorgung)
+
+
+### Dekoration und Beschilderung
+Idealerweise sind alle Dekobeleuchtungen unabhängig vom Stromnetz und solarbetrieben.
+
+* LED Streifen um Zelt oder Pavillon zu erleuchten
+* LED Fackeln/Spieße um die Heringe und Abspannseile zu beleuchten, damit niemand in der Nacht drüber stolpert.
 
 
 ## Links
