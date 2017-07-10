@@ -282,3 +282,4 @@ Idealerweise sind alle Dekobeleuchtungen unabhängig vom Stromnetz und solarbetr
 ## Links
 [1]: https://github.com/MacLemon/CongressChecklist
 [2]: https://github.com/MacLemon
+[3]: https://github.com/Columbia19/Camping-Checklist#german
