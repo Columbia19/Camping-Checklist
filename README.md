@@ -3,6 +3,8 @@ Things to prepare and pack for Camping
 
 Just some basic tips and guidelines
 
+General tipp: Label all your things!
+
 Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should consider for all tech-related stuff
 
 Pull requests welcome
@@ -143,6 +145,8 @@ Ideally all decorative lighting is independently solar powered.
 Vorbereitungen und Packliste fürs Camping.
 
 Einfache Tips und Empfehlungen.
+
+Tipp: Beschrifte alle deine Sachen!
 
 Teilweise basierend auf der [Congress Checklist][1] von [@MacLemon][2], welche Du für nerdiges Zeug ansehen solltest.
 
