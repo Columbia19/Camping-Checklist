@@ -94,6 +94,7 @@ Deutschsprachige Fassung weiter unten.
 * Working gloves (for buildup and teardown)
 * Tape measure
 * Gaffa-/Duck-/Duct-Tape (may in different colours)
+* Marker (Water proof) bright and dark colour to write on tape
 
 
 ### Food/Drink
@@ -241,6 +242,7 @@ English version above.
 * Arbeitshandschuhe für Auf- und Abbau
 * Maßband
 * Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
+* Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
 
 
 ### Essen/Trinken
