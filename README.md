@@ -92,6 +92,7 @@ Deutschsprachige Fassung weiter unten.
 * card games
 * fan (not the cheering crowd type)
 * Working gloves (for buildup and teardown)
+* Tape measure
 
 
 ### Food/Drink
@@ -236,6 +237,7 @@ English version above.
 * Kartenspiel
 * Fächer / Ventilator
 * Arbeitshandschuhe für Auf- und Abbau
+* Maßband
 
 
 ### Essen/Trinken
