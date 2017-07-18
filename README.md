@@ -93,6 +93,7 @@ Deutschsprachige Fassung weiter unten.
 * fan (not the cheering crowd type)
 * Working gloves (for buildup and teardown)
 * Tape measure
+* Gaffa-/Duck-/Duct-Tape (may in different colours)
 
 
 ### Food/Drink
@@ -239,6 +240,7 @@ English version above.
 * Fächer / Ventilator
 * Arbeitshandschuhe für Auf- und Abbau
 * Maßband
+* Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
 
 
 ### Essen/Trinken
