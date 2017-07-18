@@ -107,6 +107,7 @@ Deutschsprachige Fassung weiter unten.
 * vegetable peeler
 * dish detergent, sponge
 * Metal mug (e.g. from Easterhegg)
+* Water bottle to carry around during hot days
 
 
 ### Medication
@@ -251,6 +252,7 @@ English version above.
 * Gemüseschäler
 * Geschirrspülmittel, Geschirrspülschwamm
 * Metallbecher/Metallhäferl (zB vom Easterhegg)
+* Tragbare Wasserflasche für heiße Tage
 
 
 ### Medikamente
