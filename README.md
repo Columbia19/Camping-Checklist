@@ -91,6 +91,7 @@ Deutschsprachige Fassung weiter unten.
 * lights or flags to identify your tent
 * card games
 * fan (not the cheering crowd type)
+* Working gloves (for buildup and teardown)
 
 
 ### Food/Drink
@@ -234,6 +235,7 @@ English version above.
 * Licht oder Fahne für das Zelt zwecks Orientierung
 * Kartenspiel
 * Fächer / Ventilator
+* Arbeitshandschuhe für Auf- und Abbau
 
 
 ### Essen/Trinken
