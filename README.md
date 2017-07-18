@@ -212,7 +212,7 @@ English version above.
 	- Ersatzlinsen
 	- Ersatzbrille
 * Brille
-	- Brillenetui 
+	- Brillenetui
 * Oropax
 
 
