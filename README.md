@@ -91,6 +91,10 @@ Deutschsprachige Fassung weiter unten.
 * lights or flags to identify your tent
 * card games
 * fan (not the cheering crowd type)
+* Working gloves (for buildup and teardown)
+* Tape measure
+* Gaffa-/Duck-/Duct-Tape (may in different colours)
+* Marker (Water proof) bright and dark colour to write on tape
 
 
 ### Food/Drink
@@ -105,6 +109,7 @@ Deutschsprachige Fassung weiter unten.
 * vegetable peeler
 * dish detergent, sponge
 * Metal mug (e.g. from Easterhegg)
+* Water bottle to carry around during hot days
 
 
 ### Medication
@@ -207,7 +212,7 @@ English version above.
 	- Ersatzlinsen
 	- Ersatzbrille
 * Brille
-	- Brillenetui 
+	- Brillenetui
 * Oropax
 
 
@@ -234,6 +239,10 @@ English version above.
 * Licht oder Fahne für das Zelt zwecks Orientierung
 * Kartenspiel
 * Fächer / Ventilator
+* Arbeitshandschuhe für Auf- und Abbau
+* Maßband
+* Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
+* Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
 
 
 ### Essen/Trinken
@@ -247,6 +256,7 @@ English version above.
 * Gemüseschäler
 * Geschirrspülmittel, Geschirrspülschwamm
 * Metallbecher/Metallhäferl (zB vom Easterhegg)
+* Tragbare Wasserflasche für heiße Tage
 
 
 ### Medikamente
