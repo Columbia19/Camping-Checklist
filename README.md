@@ -23,6 +23,7 @@ Deutschsprachige Fassung weiter unten.
 	- rope
 	- check eyelets
 * camping mat / sleeping pad
+* camp bed
 * sleeping bag
 * pillow
 
@@ -170,6 +171,7 @@ English version above.
 	- Abspannseile
 	- Ösen überprüfen
 * Isomatte
+* Feldbett
 * Schlafsack
 * Polster
 
