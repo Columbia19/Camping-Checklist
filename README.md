@@ -26,6 +26,7 @@ Deutschsprachige Fassung weiter unten.
 * camp bed
 * sleeping bag
 * pillow
+* fluffy blanket
 
 
 ### Furniture
@@ -176,6 +177,7 @@ English version above.
 * Feldbett
 * Schlafsack
 * Polster
+* Flauschedecke
 
 
 ### Möbel
