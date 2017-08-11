@@ -96,6 +96,7 @@ Deutschsprachige Fassung weiter unten.
 * Tape measure
 * Gaffa-/Duck-/Duct-Tape (may in different colours)
 * Marker (Water proof) bright and dark colour to write on tape
+* hooks or pegs (to hang up things)
 
 
 ### Food/Drink
@@ -108,6 +109,7 @@ Deutschsprachige Fassung weiter unten.
 * canned food
 * Cookies, cereal bars, crackers
 * vegetable peeler
+* salt
 * dish detergent, sponge
 * Metal mug (e.g. from Easterhegg)
 * Water bottle to carry around during hot days
@@ -245,6 +247,7 @@ English version above.
 * Maßband
 * Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
 * Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
+* Haken oder Wäscheklammern, um Sachen aufzuhängen
 
 
 ### Essen/Trinken
@@ -255,6 +258,7 @@ English version above.
 * Kaugummi
 * Dosennahrung
 * Kekse, Müsliriegel, Cracker
+* Salz
 * Gemüseschäler
 * Geschirrspülmittel, Geschirrspülschwamm
 * Metallbecher/Metallhäferl (zB vom Easterhegg)
