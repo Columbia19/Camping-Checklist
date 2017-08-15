@@ -22,6 +22,7 @@ Deutschsprachige Fassung weiter unten.
 	- pegs
 	- rope
 	- check eyelets
+	- optional extra rods to secure your tent in case of heavy rain
 * camping mat / sleeping pad
 * camp bed
 * sleeping bag
@@ -173,6 +174,7 @@ English version above.
 	- Heringe
 	- Abspannseile
 	- Ösen überprüfen
+	- optionale Extrastangen, um das Zelt bei Regen und Wind abzusichern
 * Isomatte
 * Feldbett
 * Schlafsack
