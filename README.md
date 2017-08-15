@@ -97,7 +97,7 @@ Deutschsprachige Fassung weiter unten.
 * Tape measure
 * Gaffa-/Duck-/Duct-Tape (may in different colours)
 * Marker (Water proof) bright and dark colour to write on tape
-* hooks or pegs (to hang up things)
+* hooks or pegs, clothesline/washing-line/rope (to hang up things)
 
 
 ### Food/Drink
@@ -249,7 +249,7 @@ English version above.
 * Maßband
 * Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
 * Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
-* Haken oder Wäscheklammern, um Sachen aufzuhängen
+* Haken oder Wäscheklammern, Wäscheleine, Seil um Sachen aufzuhängen
 
 
 ### Essen/Trinken
