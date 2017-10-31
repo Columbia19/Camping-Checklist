@@ -24,6 +24,7 @@ Deutschsprachige Fassung weiter unten.
 	- check eyelets
 * camping mat / sleeping pad
 * camp bed
+* airbed / air mattress
 * sleeping bag
 * pillow
 
@@ -172,6 +173,7 @@ English version above.
 	- Ösen überprüfen
 * Isomatte
 * Feldbett
+* Luftmatratze
 * Schlafsack
 * Polster
 
