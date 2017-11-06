@@ -25,6 +25,7 @@ Deutschsprachige Fassung weiter unten.
 	- optional extra rods to secure your tent in case of heavy rain
 * camping mat / sleeping pad
 * camp bed
+* airbed / air mattress
 * sleeping bag
 * pillow
 * fluffy blanket
@@ -177,6 +178,7 @@ English version above.
 	- optionale Extrastangen, um das Zelt bei Regen und Wind abzusichern
 * Isomatte
 * Feldbett
+* Luftmatratze
 * Schlafsack
 * Polster
 * Flauschedecke
