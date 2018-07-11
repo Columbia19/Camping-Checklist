@@ -290,8 +290,6 @@ English version above.
 * Solar panels
 * Rechargables, power banks
 * AA (Mignon), AAA Batterien
-* Dynamo, Handgenerator
-* AA, AAA batteries
 * Handgenerator, Dynamo
 * Wind Generator
 * Hydroelektrisches Kraftwerk
