@@ -52,6 +52,7 @@ Deutschsprachige Fassung weiter unten.
 * rain shield
 * Swim suit, bikini, trunks
 * pajamas
+* Scarf (it might get windy)
 
 
 ### Personal hygiene
@@ -71,6 +72,7 @@ Deutschsprachige Fassung weiter unten.
 * Glasses
 	- spectacle case
 * Oropax
+* Hand desinfectant, yet always wash your hands
 
 
 ### Tools
@@ -205,6 +207,7 @@ English version above.
 * Regenschutz
 * Badeanzug, Bikini, Badehosen
 * Pyjama
+* Schal oder Halstuch (es könnte windig werden)
 
 
 ### Personal hygiene
@@ -224,6 +227,7 @@ English version above.
 * Brille
 	- Brillenetui
 * Oropax
+* Desinfektionsgel oder -spray
 
 
 ### Diverses
