@@ -73,6 +73,7 @@ Deutschsprachige Fassung weiter unten.
 	- spectacle case
 * Oropax
 * Hand desinfectant, yet always wash your hands
+* lip balm
 
 
 ### Tools
@@ -228,6 +229,7 @@ English version above.
 	- Brillenetui
 * Oropax
 * Desinfektionsgel oder -spray
+* Lippenpflege
 
 
 ### Diverses
