@@ -104,6 +104,9 @@ German version below
 * antiseptic (Octenisept)
 * personal medication
 
+## Travelling by car
+* High-visibility vests for all persons travelling (some transit countries demand this, either way it‘s a good idea)
+
 ---
 
 ## German
@@ -201,6 +204,10 @@ German version below
 * Bepanthen
 * Antiseptikum (Octenisept)
 * persönliche Medikamente
+
+
+## Reisen mit einem Auto
+* Warnwesten für alle Reisenden
 
 
 ## Links
