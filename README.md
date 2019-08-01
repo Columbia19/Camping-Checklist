@@ -3,11 +3,14 @@ Things to prepare and pack for Camping
 
 Just some basic tips and guidelines
 
+General tipp: Label all your things!
+
 Partly based on the [Congress Checklist][1] by [@MacLemon][2], which you should consider for all tech-related stuff
 
 Pull requests welcome
 
-German version below
+German version below.
+Deutschsprachige Fassung weiter unten.
 
 ---
 
@@ -16,9 +19,17 @@ German version below
 ### Sleeping
 
 * tent
+	- pegs
+	- rope
+	- check eyelets
+	- optional extra rods to secure your tent in case of heavy rain
 * camping mat / sleeping pad
+* camp bed
+* airbed / air mattress
 * sleeping bag
 * pillow
+* fluffy blanket
+
 
 ### Furniture
 
@@ -28,18 +39,21 @@ German version below
 * hand truck
 * pavillon or tarp (sun protection)
 
+
 ### Clothing
 
 * shirts
 * underwear
 * socks/stockings/tights/overknees
-* pants/skirts/trousers/dresses
+* pants/skirts/trousers/dresses/kilts
 * Hoodies, pullovers, zippers, vests
 * Jacket
 * shoes (sneekers, rubber boots, plastic shoes or flipflops for showering)
 * rain shield
 * Swim suit, bikini, trunks
 * pajamas
+* Scarf (it might get windy)
+
 
 ### Personal hygiene
 * Tooth brush, Toothpaste
@@ -56,12 +70,16 @@ German version below
 	- replacement contact lenses
 	- replacement glasses
 * Glasses
+	- spectacle case
 * Oropax
+* Hand desinfectant, yet always wash your hands
+* lip balm
+
 
 ### Tools
 
-* hammer (for tent pegs)
-* torch / flashlight / headlamp
+* rubber hammer (for tent pegs)
+* torch / flashlight / headlamp (including batteries and matching charger)
 * batteries
 * pocket knife / leatherman
 * sunscreen
@@ -74,23 +92,34 @@ German version below
 * tissues
 * cleaning tissues
 * rubbish bag
-* cable drum
+* lasers
+* cable drum (power, ethernet, fiber)
 * power distributor
 * lights or flags to identify your tent
 * card games
-* fan
+* fan (not the cheering crowd type)
+* Working gloves (for buildup and teardown)
+* Tape measure
+* Gaffa-/Duck-/Duct-Tape (may in different colours)
+* Marker (Water proof) bright and dark colour to write on tape
+* hooks or pegs, clothesline/washing-line/rope (to hang up things)
+
 
 ### Food/Drink
 
 * camping plates, cups, cutlery
-* water can (5L)
+* water canister (5L), foldable 
 * refrigerator box
 * camping stove
 * chewing gum
 * canned food
 * Cookies, cereal bars, crackers
 * vegetable peeler
+* salt
 * dish detergent, sponge
+* Metal mug (e.g. from Easterhegg)
+* Water bottle to carry around during hot days
+
 
 ### Medication
 
@@ -104,19 +133,62 @@ German version below
 * antiseptic (Octenisept)
 * personal medication
 
+
 ## Travelling by car
 * High-visibility vests for all persons travelling (some transit countries demand this, either way it‘s a good idea)
 
+
+### Power Supply
+
+* 3-phase 400V adapter to 230V single phase (ruggedized outdoor kind)
+* Solarpanele
+* Akkus, PowerBanks
+* AA, AAA batteries
+* hand crank generator
+* Wind generator
+* hydro electric power plant
+* Uninterruptable power supply (UPS)
+
+
+### Decoration and Signage
+Ideally all decorative lighting is independently solar powered.
+
+* LED strips to brighten up your tent or pavillon
+* LED torches to illuminate rope and pegs to prevent people from tripping over them during the night
+
 ---
+# Camping-Checkliste
+
+Vorbereitungen und Packliste fürs Camping.
+
+Einfache Tips und Empfehlungen.
+
+Tipp: Beschrifte alle deine Sachen!
+
+Teilweise basierend auf der [Congress Checklist][1] von [@MacLemon][2], welche Du für nerdiges Zeug ansehen solltest.
+
+Pull requests sind willkommen.
+
+Englischsprachige Fassung oben.
+English version above.
+
 
 ## German
 
 ### Schlafen
 
 * Zelt
+	- Heringe
+	- Abspannseile
+	- Ösen überprüfen
+	- optionale Extrastangen, um das Zelt bei Regen und Wind abzusichern
 * Isomatte
+* Feldbett
+* Luftmatratze
 * Schlafsack
 * Polster
+* Flauschedecke
+
 
 ### Möbel
 
@@ -132,13 +204,15 @@ German version below
 * T-Shirts
 * Unterwäsche
 * Socken/Strumpfhosen
-* Hosen/Röcke/Kleider
+* Hosen/Röcke/Kleider/Kilts
 * Hoodies, Pullover, Westen
 * Jacke
 * Schuhe (Sneekers, Gummistiefel, Plastikschuhe oder Flipflops zum Duschen)
 * Regenschutz
 * Badeanzug, Bikini, Badehosen
 * Pyjama
+* Schal oder Halstuch (es könnte windig werden)
+
 
 ### Personal hygiene
 * Zahnbürste, Zahnpasta
@@ -155,12 +229,16 @@ German version below
 	- Ersatzlinsen
 	- Ersatzbrille
 * Brille
+	- Brillenetui
 * Oropax
+* Desinfektionsgel oder -spray
+* Lippenpflege
+
 
 ### Diverses
 
-* Hammer (zum Einschlagen von Zeltheringen)
-* Taschenlampe / Stirnlampe
+* Gummihammer (zum Einschlagen von Zeltheringen)
+* Taschenlampe / Stirnlampe (inkl. Akkus und passendem Ladegerät)
 * Batterien
 * Taschenmesser / Leatherman
 * Gummistiefel
@@ -174,23 +252,32 @@ German version below
 * Taschentücher
 * Reinigungstücher
 * Müllsäcke
-* Kabeltrommel
+* Laser
+* Kabeltrommel (Wechselstrom, Ethernet, Glasfaser)
 * Verteiler
 * Licht oder Fahne für das Zelt zwecks Orientierung
 * Kartenspiel
-* Fächer
+* Fächer / Ventilator
+* Arbeitshandschuhe für Auf- und Abbau
+* Maßband
+* Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
+* Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
+* Haken oder Wäscheklammern, Wäscheleine, Seil um Sachen aufzuhängen
 
 
 ### Essen/Trinken
 * Kühlbox
-* Wasserkanister (5L)
+* Wasserkanister (5L), evt. faltbar
 * Plastikteller, Becher, Besteck
 * Gaskocher
 * Kaugummi
 * Dosennahrung
 * Kekse, Müsliriegel, Cracker
+* Salz
 * Gemüseschäler
 * Geschirrspülmittel, Geschirrspülschwamm
+* Metallbecher/Metallhäferl (zB vom Easterhegg)
+* Tragbare Wasserflasche für heiße Tage
 
 
 ### Medikamente
@@ -210,6 +297,26 @@ German version below
 * Warnwesten für alle Reisenden
 
 
+### Stromversorgung
+
+* 400V, Drehstrom Adapter auf 1 Phase 230V (allwettertauglich)
+* Solar panels
+* Rechargables, power banks
+* AA (Mignon), AAA Batterien
+* Handgenerator, Dynamo
+* Wind Generator
+* Hydroelektrisches Kraftwerk
+* USV (Unterbrechungsfreie Stromversorgung)
+
+
+### Dekoration und Beschilderung
+Idealerweise sind alle Dekobeleuchtungen unabhängig vom Stromnetz und solarbetrieben.
+
+* LED Streifen um Zelt oder Pavillon zu erleuchten
+* LED Fackeln/Spieße um die Heringe und Abspannseile zu beleuchten, damit niemand in der Nacht drüber stolpert.
+
+
 ## Links
 [1]: https://github.com/MacLemon/CongressChecklist
 [2]: https://github.com/MacLemon
+[3]: https://github.com/Columbia19/Camping-Checklist#german
