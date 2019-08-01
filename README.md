@@ -134,6 +134,10 @@ Deutschsprachige Fassung weiter unten.
 * personal medication
 
 
+## Travelling by car
+* High-visibility vests for all persons travelling (some transit countries demand this, either way it‘s a good idea)
+
+
 ### Power Supply
 
 * 3-phase 400V adapter to 230V single phase (ruggedized outdoor kind)
@@ -151,7 +155,6 @@ Ideally all decorative lighting is independently solar powered.
 
 * LED strips to brighten up your tent or pavillon
 * LED torches to illuminate rope and pegs to prevent people from tripping over them during the night
-
 
 ---
 # Camping-Checkliste
@@ -288,6 +291,10 @@ English version above.
 * Bepanthen
 * Antiseptikum (Octenisept)
 * persönliche Medikamente
+
+
+## Reisen mit einem Auto
+* Warnwesten für alle Reisenden
 
 
 ### Stromversorgung
