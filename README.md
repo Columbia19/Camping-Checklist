@@ -135,7 +135,7 @@ Deutschsprachige Fassung weiter unten.
 
 
 ## Travelling by car
-* High-visibility vests for all persons travelling (some transit countries demand this, either way it‘s a good idea)
+* High-visibility vests for all persons travelling (mandatory: AT/DE: 1 per car, HU: 1 per person in the car)
 
 
 ### Power Supply
@@ -294,7 +294,7 @@ English version above.
 
 
 ## Reisen mit einem Auto
-* Warnwesten für alle Reisenden
+* Warnwesten für alle Reisenden (verpflichtend: AT/DE: 1 pro Auto, HU: 1 pro Person im Auto)
 
 
 ### Stromversorgung
