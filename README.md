@@ -103,6 +103,7 @@ Deutschsprachige Fassung weiter unten.
 * Gaffa-/Duck-/Duct-Tape (may in different colours)
 * Marker (Water proof) bright and dark colour to write on tape
 * hooks or pegs, clothesline/washing-line/rope (to hang up things)
+* Blåhaj (or other favorite plushy)
 
 
 ### Food/Drink
@@ -263,6 +264,7 @@ English version above.
 * Gaffa-/Duck-/Duct-Tape/Gewebeband (evt. in unterschiedlichen Farben)
 * Lackstift/Edding (Wasserfest, um Klebeband zu beschriften.)
 * Haken oder Wäscheklammern, Wäscheleine, Seil um Sachen aufzuhängen
+* Blåhaj (oder ein anderes Lieblingskuscheldings)
 
 
 ### Essen/Trinken
