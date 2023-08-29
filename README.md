@@ -107,7 +107,7 @@ Deutschsprachige Fassung weiter unten.
 
 
 ### Food/Drink
-
+* 1-2 weeks before the event: check expiry date of food in your fridge and eat those things that might go bad during your absence. food waste is not nice ;)
 * camping plates, cups, cutlery
 * water canister (5L), foldable 
 * refrigerator box
@@ -268,6 +268,7 @@ English version above.
 
 
 ### Essen/Trinken
+* 1-2 Wochen vor dem Event: überprüfe die Haltbarkeit der Lebensmittel in deinem Kühlschrank und verbrauche jene Lebensmittel, die während deiner Abwesenheit schlecht werden könntemln. Lebensmittelverschwendung ist unschön ;)
 * Kühlbox
 * Wasserkanister (5L), evt. faltbar
 * Plastikteller, Becher, Besteck
